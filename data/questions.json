@@ -1,0 +1,119 @@
+{
+  "questions": [
+    {
+      "question": "How many wheels are F1 cars have?",
+      "options": ["6", "4", "2", "8"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Which constructor has the most victory in the history of F1? ",
+      "options": ["Renualt", "Mercedes", "Red Bull", "Ferrari"],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "How many points does champoin recieve in a grand prix?",
+      "options": ["25", "18", "10", "8"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Who is the greatest driver in F1 history?",
+      "options": [
+        "Micheal Schumacher",
+        "Max Verstapean",
+        "Lewis Hamilton",
+        "Sebastian Vettel"
+      ],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Who is the common driver champion?",
+      "options": [
+        "Max Verstapean",
+        "Charles Lecrec",
+        "Lewis Hamilton",
+        "Goerge Russel"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "How F1 Motors cars are working?",
+      "options": ["Electronic", "Hybrid", "Feul", "Sun"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "When drivers can use DRS?",
+      "options": [
+        "Whenever they want",
+        "Whenever they are in the straight path",
+        "Whenever they break",
+        "Whenever they want to pass another and they have permission"
+      ],
+      "correctOption": 3,
+      "points": 30
+    },
+    {
+      "question": "Which circuit is the fastest in F1 history?",
+      "options": ["Azerbaijan", "Spa", "Jaddeh", "Austin"],
+      "correctOption": 2,
+      "points": 20
+    },
+    {
+      "question": "Which circuit is the most danagerous circiut in F1 history?",
+      "options": ["Imola", "Monaco, Monte Carlo", "Spa", "Nurbergring"],
+      "correctOption": 3,
+      "points": 20
+    },
+    {
+      "question": "Which driver has won the most time Monaco grand prix?",
+      "options": [
+        "Lewis Hamilton",
+        "Micheal Schumacher",
+        "Niki Lauda",
+        "Ayrton Senna"
+      ],
+      "correctOption": 3,
+      "points": 30
+    },
+    {
+      "question": "When FIA gives a red flag in a race?",
+      "options": [
+        "In every race",
+        "Whenever a normal accident is happens.",
+        "Whenever a high risk accident is happens",
+        "Whenever race starts"
+      ],
+      "correctOption": 2,
+      "points": 30
+    },
+    {
+      "question": "When Hybrind era began?",
+      "options": ["1950", "2014", "2026", "1975"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "How many types of tires F1 has and which one is faster?",
+      "options": ["4, hard", "2, full wet", "4, soft", "1, medium"],
+      "correctOption": 2,
+      "points": 30
+    },
+    {
+      "question": "Which circuit is the oldest in F1 history?",
+      "options": ["Monaco", "Spa", "Silverstone", "Zandvoort"],
+      "correctOption": 0,
+      "points": 30
+    },
+    {
+      "question": "How many Silenders F1 cars have?",
+      "options": ["8", "12", "4", "6"],
+      "correctOption": 3,
+      "points": 20
+    }
+  ]
+}
